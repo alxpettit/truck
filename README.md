@@ -68,7 +68,7 @@ defines polygon data structure and some algorithms handling mesh, including mesh
 
 ### truck-meshalgo [![Crates.io](https://img.shields.io/crates/v/truck-meshalgo.svg)](https://crates.io/crates/truck-meshalgo) [![Docs.rs](https://docs.rs/truck-meshalgo/badge.svg)](https://docs.rs/truck-meshalgo)
 
-Mesh algorighms, include tessellations of the shape.
+Mesh algorithms, include tessellations of the shape.
 
 ### truck-modeling  [![Crates.io](https://img.shields.io/crates/v/truck-modeling.svg)](https://crates.io/crates/truck-modeling) [![Docs.rs](https://docs.rs/truck-modeling/badge.svg)](https://docs.rs/truck-modeling)
 
